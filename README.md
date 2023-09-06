@@ -20,3 +20,4 @@
 https://documenter.getpostman.com/view/29201751/2s9YBxZbcG
 
 ## Test Report
+![screencapture-file-H-ROADTOSDET-POSTMAN-D-Money-Collection-Newman-Reports-report-html-2023-09-06-16_02_34](https://github.com/naimakanda/Dmoney-automation-newman-assignment/assets/44730512/25ad5e5c-3464-4017-a905-571293a79d6a)
