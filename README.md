@@ -15,3 +15,8 @@
 - Give following command
 -  ``` npm i ```
 -  ``` npm test ``` 
+
+## D-Money API documentation
+https://documenter.getpostman.com/view/29201751/2s9YBxZbcG
+
+## Test Report
